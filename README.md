@@ -54,7 +54,7 @@ This means strictly enforcing these agreed upon guidelines at all times. For add
 ### HTML syntax
 
 * Use soft-tabs with two spaces
-* Nested elements should be indented once (2 spaces)
+* Nested elements should be indented once (4 spaces)
 * Always use double quotes, never single quotes
 * Don't include a trailing slash in self-closing elements
 
