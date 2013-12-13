@@ -347,7 +347,4 @@ Always write copy, including headings and code comments, in [sentence case](http
 
 
 ### Thanks
-This is all inspired by 
-
-### Thanks [Idiomatic CSS](https://github.com/necolas/idiomatic-css), the [GitHub Styleguide](http://github.com/styleguide) and [HTML and CSS code guide](https://github.com/markdotto/code-guide). Made for ByPeople by
-ByPeople Dev Team
+This is all inspired by [Idiomatic CSS](https://github.com/necolas/idiomatic-css), the [GitHub Styleguide](http://github.com/styleguide) and [HTML and CSS code guide](https://github.com/markdotto/code-guide).
